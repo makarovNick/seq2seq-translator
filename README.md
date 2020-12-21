@@ -2,7 +2,7 @@
 
 ![Architecture](https://miro.medium.com/max/472/1*4gl4R2Zc1P70evX5XlHR4Q.png)
 
-* * Recurrent Block - LSTM *
+* ***Recurrent Block - LSTM***
 
 
 ### TODO :
